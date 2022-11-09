@@ -2,8 +2,11 @@
 ## Criação de uma seguradora para *observação e prática* sobre:
 
 > Criação de funções;
+> 
 > Getters & Setters;
+> 
 > Funções abstratas;
+> 
 > Herança;
 
 
@@ -21,9 +24,9 @@
 
 
 
-- Primeira versão
 
-##### Criado por: João Bahia
+
+##### <sub> Criado por: João Bahia </sub>
 
 <sub> Data de att: 09/11/2022 - 01:44 AM </sub>
 
